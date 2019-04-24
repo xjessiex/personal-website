@@ -1,7 +1,8 @@
 ---
 title:  "Three Main Take-aways from a One-day Training of Financial Modeling"
 date:   2019-4-23
-tags: [Finance, Modeling, Excel]
+tags: [Finance, Modeling]
+categories: [Excel]
 excerpt: 
 layout: single
 header:
