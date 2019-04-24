@@ -3,11 +3,10 @@ title:  "Three Main Take-aways from a One-day Training of Financial Modeling"
 date:   2019-4-23
 tags: [Finance, Modeling]
 categories: [Excel]
-excerpt: 
+excerpt: "Class notes for a day-long financial modeling bootcamp"
 layout: single
 header:
     image: /images/financemodel/header.jpg
-
 author_profile: true
 comments: true
 ---
