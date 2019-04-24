@@ -1,6 +1,8 @@
 ---
 title:  "Three Main Take-aways from a One-day Training of Financial Modeling"
 date:   2019-4-23
+tags: [Finance, Modeling, Excel]
+excerpt: 
 layout: single
 header:
     image: /images/financemodel/header.jpg
@@ -10,3 +12,9 @@ comments: true
 ---
 
 Participated in a one-day financial modeling class.
+
+
+<div class="notice">
+    <h4>Message</h4>
+    <p>EBITDA is considered a proxy for cash flow.</p>
+</div>
