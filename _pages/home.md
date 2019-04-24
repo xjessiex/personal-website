@@ -1,5 +1,5 @@
 ---
-title: Xiaoxuan's Website
+title: "Xiaoxuan's Website"
 layout: splash
 permalink: /home/
 excerpt: "Building a Sustainable Future"
