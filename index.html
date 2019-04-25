@@ -1,7 +1,6 @@
 ---
-layout: home
-author_profile: true
-classes: wide
+layout: splash
+author_profile: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -10,24 +9,34 @@ header:
     - label: "Learn more"
       url: "/projects/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "What can we learn from metering data?"
+excerpt: "Here is Jessie Yang's blog to record her progress in energy data analysis."
 
+intro: 
+  - excerpt: 'Energy data provides insights of energy use pattern. With a wider application of advanced metering, energy data analysis has become the focus to help identify opportunities for energy efficiency.'
 feature_row:
   - image_path: /images/Blog teaser.jpg
     alt: ""
     title: "Professional Blogs"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "My learning experience with R and Python, as well as career development."
+    url: "/categories/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
 
   - image_path: /images/Project teaser.jpg
     alt: ""
     title: "Sample Projects"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    excerpt: "A collection of previous and ongoing projects related to energy data."
+    url: "/projects/"
+    btn_label: "More Projects"
+    btn_class: "btn--inverse"
 
   - image_path: /images/News teaser.jpg
-    title: "Relevant News"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-
+    title: "Energy News"
+    excerpt: "Selected energy news to share with everyone who is interested in data and energy."
+    url: "/news/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
 ---
-
+{% include feature_row id="intro" type="center" %}
 {% include feature_row %}
+
