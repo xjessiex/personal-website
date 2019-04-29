@@ -1,4 +1,4 @@
-# Personal Website [Powered by Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
+# Personal Website Powered by [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
 #### Project Status: [In Progress]
 
