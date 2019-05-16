@@ -36,19 +36,19 @@ comments:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    appid                : # optional
+    num_posts            : 5 
+    colorscheme          : "light" # "light" (default), "dark"
   utterances:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
 staticman:
-  allowedFields          : # ['name', 'email', 'url', 'message']
-  branch                 : # "master"
+  allowedFields          : ['name', 'email', 'url', 'message']
+  branch                 : "master"
   commitMessage          : "New comment by {fields.name}"
   filename               : comment-{@timestamp}
   format                 : "yml"
-  moderation             : true
+  moderation             : false
   path                   : "docs/_data/comments/{options.slug}" 
   requiredFields         : ['name', 'email', 'message']
   transforms:
@@ -274,14 +274,13 @@ defaults:
       read_time: true
       comments: true # true
       share: true
-      related: true
-  
+      related: false
+
+
   # _pages
   - scope:
       path: ""
       type: pages
-    values: 
+    values:
       layout: single
- 
- 
 

@@ -1,5 +1,6 @@
 ---
 title:  "Energy Job Searching as an International Student (in progress)"
+
 date:   2019-4-25
 tags: [Job search, Career]
 categories: [Resources]
@@ -12,6 +13,8 @@ comments: true
 toc: true
 toc_sticky: true
 ---
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.3"></script>
 
 As an international student, I've always had a hard time finding jobs and internships due to my visa status. Thus, this post is dedicated to sharing the career resources I use. You may find this post particularly helpful if you are an international student or young professional who is looking for energy-related jobs. This post can also be helpful for recruiters who are considering hiring an international student or intern.
 
@@ -39,3 +42,6 @@ For recent graduates, this [Dayaway website](https://www.dayawaycareers.com/entr
 
 ## Companies of Interest
 In this section, I want to recommend some companies and organizations that I've interacted with or applied to.
+
+
+<div class="fb-comments" data-href="https://developers.facebook.com/docs/plugins/comments#configurator" data-width="" data-numposts="5"></div>

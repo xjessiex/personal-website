@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: Tags
-comments: false
+comments: true
 permalink: /tags/
 ---
 

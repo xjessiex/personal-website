@@ -1,5 +1,5 @@
 ---
-title:  "Quick Guide on Buidling a Jekyll Website Powered by Minimal Mistakes Theme"
+title:  "Quick Guide on Buidling a Jekyll Website Powered by Minimal Mistakes Theme (in progress)"
 date:   2019-4-22
 tags: [Jekyll, Website Design]
 categories: [Tutorial]
@@ -10,3 +10,5 @@ header:
 author_profile: true
 comments: true
 ---
+
+
