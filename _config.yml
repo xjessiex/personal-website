@@ -37,8 +37,8 @@ comments:
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                : # optional
-    num_posts            : 5 
-    colorscheme          : "light" # "light" (default), "dark"
+    num_posts            : # 5 
+    colorscheme          : # "light" (default), "dark"
   utterances:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
@@ -48,7 +48,7 @@ staticman:
   commitMessage          : "New comment by {fields.name}"
   filename               : comment-{@timestamp}
   format                 : "yml"
-  moderation             : false
+  moderation             : true
   path                   : "docs/_data/comments/{options.slug}" 
   requiredFields         : ['name', 'email', 'message']
   transforms:
@@ -276,11 +276,11 @@ defaults:
       share: true
       related: false
 
-
   # _pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
+      comments: true
 

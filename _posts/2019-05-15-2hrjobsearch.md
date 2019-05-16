@@ -14,6 +14,5 @@ comments: true
 <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.3"></script>
 
 
-hello, check comments
 
-<div class="fb-comments" data-href="https://developers.facebook.com/docs/plugins/comments#configurator" data-width="" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://xjessiex.netlify.com/resources/2hrjobsearch/" data-width="" data-numposts="5"></div>

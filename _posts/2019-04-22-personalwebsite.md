@@ -10,5 +10,10 @@ header:
 author_profile: true
 comments: true
 ---
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.3"></script>
 
+
+
+<div class="fb-comments" data-href="https://xjessiex.netlify.com/resources/personalwebsite/" data-width="" data-numposts="5"></div>
 

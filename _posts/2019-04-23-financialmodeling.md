@@ -10,6 +10,8 @@ header:
 author_profile: true
 comments: true
 ---
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.3"></script>
 
 Recently, I participated in a one-day Financial Modeling workshop, which was offered by Training the Street, Inc and subsidized by Duke organizations. Even though I've never taken a financial modeling class at Duke, I've used Excel and Excel VBA macros to build energy models before. Thus, I was excited to learn more about how to construct financial models through a case study. Through the training, I learned how to complete a financal model that generated five years of projects based on three years of historical data. In this blog, I hope to reflect on my experience and conclude three major takeaways.
 
@@ -21,3 +23,6 @@ I surprisingly learned a lot of useful Excel keyboard shortcuts which I wish I h
 Usually I drag the bottom right corner across cells to autofill formulas. However, this keyboard shortcut definitely saves me time from dragging over a long row or column of cells.
 
 ### 
+
+
+<div class="fb-comments" data-href="https://xjessiex.netlify.com/resources/financialmodeling/" data-width="" data-numposts="5"></div>

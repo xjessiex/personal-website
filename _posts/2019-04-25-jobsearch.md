@@ -44,4 +44,4 @@ For recent graduates, this [Dayaway website](https://www.dayawaycareers.com/entr
 In this section, I want to recommend some companies and organizations that I've interacted with or applied to.
 
 
-<div class="fb-comments" data-href="https://developers.facebook.com/docs/plugins/comments#configurator" data-width="" data-numposts="5"></div>
+<div class="fb-comments" data-href="https://xjessiex.netlify.com/resources/jobsearch/" data-width="" data-numposts="5"></div>
