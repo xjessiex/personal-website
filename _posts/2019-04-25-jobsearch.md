@@ -27,7 +27,6 @@ The most unspoken rule about looking for a job as an international student with 
 H1B status grants up to six years of employment with extension and can be potentially transitioned to a green card. 
 {: .notice}
 
-
 ## Internship
 For internship, however, hiring an international student would be the same as hiring a domestic one - there is no financial burden on the company. For more information, I encourage you to check out the [Frequently Asked Questions section]( https://visaservices.duke.edu/categories/f1/opt) published by Duke Visa Service. Please take a closer look at the listed questions:
 - Question #16 - paid vs. unpaid internships
@@ -40,8 +39,7 @@ To evaluate if a company sponsors international students, please check the [H-1B
 For recent graduates, this [Dayaway website](https://www.dayawaycareers.com/entry-level-renewable-energy-jobs-search/) provides a list of energy job listings based on your degrees and majors.
 
 
-## Companies of Interest
-In this section, I want to recommend some companies and organizations that I've interacted with or applied to.
-
+## Job Searching Book
+Several Duke alumni have recommended Steve Dalton's book "The 2-Hour Job Search". In the book, the author recommends coming up with a list with companies you are interested in and focusing on finding advocates inside those companies before you apply to any jobs. The ultimate goal is to save time from browsing through a large volume of random job listings online. Last weekend, I took this book's approach and added another sponsorship check for each company. Even though I spent more than two hours, I was able to find at least 40 target companies. According to the book, you then sort the companies based on your alumni network and your interest. I will keep updating this blog as I start networking according to this list. Stay in tune!
 
 <div class="fb-comments" data-href="https://xjessiex.netlify.com/resources/jobsearch/" data-width="" data-numposts="5"></div>
