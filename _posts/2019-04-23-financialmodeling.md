@@ -2,7 +2,7 @@
 title:  "Three Main Takeaways from a One-day Training of Financial Modeling (in progress)"
 date:   2019-4-23
 tags: [Finance, Modeling]
-categories: [Excel]
+categories: [Tutorial]
 excerpt: "Mastering financial modeling in a day? I share my experience participating in a one-day bootcamp for financial modeling using Excel."
 layout: single
 header:
