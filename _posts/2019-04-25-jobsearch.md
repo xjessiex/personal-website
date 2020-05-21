@@ -1,5 +1,5 @@
 ---
-title:  "Energy Job Searching as an International Student (in progress)"
+title:  "Energy Job Searching as an International Student"
 
 date:   2019-4-25
 tags: [Job search, Career]
