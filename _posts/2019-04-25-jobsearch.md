@@ -27,6 +27,8 @@ The most unspoken rule about looking for a job as an international student with 
 H1B status grants up to six years of employment with extension and can be potentially transitioned to a green card. 
 {: .notice}
 
+Updates 2020: I was lucky enough to win H1B lottery this year! Finger crossed.
+
 ## Internship
 For internship, however, hiring an international student would be the same as hiring a domestic one - there is no financial burden on the company. For more information, I encourage you to check out the [Frequently Asked Questions section]( https://visaservices.duke.edu/categories/f1/opt) published by Duke Visa Service. Please take a closer look at the listed questions:
 - Question #16 - paid vs. unpaid internships
